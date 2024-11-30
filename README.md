@@ -15,46 +15,71 @@ The core idea is to create a unified Alumni Association platform that bridges th
 ## Key Functions
 
 1. Alumni Registration
+
 -Simple registration with email/phone and social media integration.
+
 -Profile completion prompts for educational history, professional details, and areas of interest.
 
 2. Donation Portal
+
 -Multiple payment gateways with options for one-time and recurring donations.
+
 -Transparent display of donation purposes (e.g., scholarships, infrastructure projects).
+
 -Real-time donation tracking and tax receipt generation.
 
 3. Networking Hub
+
 -Forums and discussion boards categorized by industry, location, and interests.
+
 -Direct messaging and group chats.
+
 -AI-based recommendations for professional connections.
 
 5. Job Portal
+
 -Alumni can post and explore job opportunities.
+
 -Resume upload and profile-based job recommendations.
+
 -Notifications for relevant job openings.
 
 6. Alumni Directory
+
 -Searchable database with filters (graduation year, field of study, industry, location, etc.).
+
 -Profile visibility controls for privacy preferences.
 
 7. Success Story Tracking
+
 -Submission portal for alumni to share achievements.
+
 -Content moderation for publishing notable stories.
+
 -Social media sharing options.
 
 8. Events and Reunions
+
 -Event creation and management tools (e.g., RSVPs, ticketing, live-streaming options).
+
 -Calendar integration and push notifications for event reminders.
 
 9. Expected Outcomes
+
 -Improved Alumni Engagement: Active participation in events, networking, and feedback loops.
+
 -Enhanced Donations: Easy and secure donation features to boost financial contributions.
+
 -Career Growth: A thriving job portal for professional opportunities.
+
 -Knowledge Sharing: A platform to exchange success stories and best practices.
+
 -Institutional Pride: Stronger connection between alumni and the college.
 
 10. Feedback and Surveys
+
 -Feedback forms and quick surveys.
+
 -Polls for alumni opinions on various initiatives.
 
 ## Proposed Solution / Architecture Diagram
