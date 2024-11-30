@@ -72,17 +72,27 @@ The core idea is to create a unified Alumni Association platform that bridges th
 ## Technology Stack
 
 Frontend: React.js, Flutter
+
 Backend: Node.js, MongoDB, Express.js
+
 Security: OAuth2.0, AES-256
+
 Hosting: AWS/Azure
+
 Payment Gateway: Razorpay/Stripe/PayPal
 
 ## Dependencies
 
 -Framework: React.js (or Angular/Vue.js for an alternative).
+
 -Programming Language: Node.js with Express.js (or Django/Flask if using Python).
+
 -Cloud Platform: AWS, Google Cloud, or Azure for scalable hosting.
+
 -CI/CD: Jenkins, GitHub Actions, or GitLab CI for continuous integration and deployment.
+
 -AES-256 encryption for sensitive data storage.
+
 -Payment Gateways: Razorpay, Stripe, or PayPal for processing donations.
+
 -Estimated Total Cost:For a fully functional MVP (Minimum Viable Product) $25,000 - $50,000
